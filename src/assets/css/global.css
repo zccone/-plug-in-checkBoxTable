@@ -1,0 +1,11 @@
+.content{
+  position: absolute;
+  padding: 10px;
+  left: 220px;
+  right: 0;
+  top: 0px;
+  bottom: 0;
+}
+.inputWidth .el-input__inner{
+  width: 300px;
+}
